@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "SMA"
+    },
+    {
+        "id": 2,
+        "parent": 1,
+        "name": "MCDonald"
+    },
+    {
+        "id": 3,
+        "parent": 1,
+        "name": "MCDonald Cesena"
+    },
+    {
+        "id": 4,
+        "parent": 1,
+        "name": "MCDonald Imola"
+    },
+    {
+        "id": 5,
+        "parent": 1,
+        "name": "MCDonald Bologna"
+    },
+    {
+        "id": 6,
+        "parent": 1,
+        "name": "Confindustria"
+    },
+    {
+        "id": 7,
+        "parent": 1,
+        "name": "Confindustria Bologna"
+    },
+    {
+        "id": 8,
+        "parent": 1,
+        "name": "Confindustria Imola"
+    },
+    {
+        "id": 9,
+        "parent": 1,
+        "name": "INPS"
+    },
+    {
+        "id": 10,
+        "parent": 1,
+        "name": "INPS Bologna"
+    },
+    {
+        "id": 11,
+        "parent": 1,
+        "name": "INPS Cesena"
+    },
+    {
+        "id": 12,
+        "parent": 1,
+        "name": "INPS Casalecchio"
+    },
+    {
+        "id": 13,
+        "parent": 3,
+        "name": "1234567890123452"
+    },
+    {
+        "id": 14,
+        "parent": 3,
+        "name": "1234567890123453"
+    },
+    {
+        "id": 15,
+        "parent": 5,
+        "name": "1234567890123455"
+    },
+    {
+        "id": 16,
+        "parent": 5,
+        "name": "1234567890123456"
+    },
+    {
+        "id": 17,
+        "parent": 3,
+        "name": "1234567890123451"
+    },
+    {
+        "id": 18,
+        "parent": 10,
+        "name": "1234567890123457"
+    },
+    {
+        "id": 19,
+        "parent": 10,
+        "name": "1234567890123458"
+    },
+    {
+        "id": 20,
+        "parent": 10,
+        "name": "1234567890123459"
+    },
+    {
+        "id": 21,
+        "parent": 8,
+        "name": "1234567890123460"
+    },
+    {
+        "id": 22,
+        "parent": 8,
+        "name": "1234567890123461"
+    },
+    {
+        "id": 23,
+        "parent": 8,
+        "name": "1234567890123462"
+    },
+    {
+        "id": 24,
+        "parent": 5,
+        "name": "1234567890123454"
+    }
+    
+]
